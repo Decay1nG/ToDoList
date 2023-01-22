@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "cinzel";
+    font-weight: 700;
+    font-style: normal;
+    src:
+            local("cinzel_bold"),
+            url(../materials/fonts/cinzel_bold.woff) format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "cinzel";
+    font-weight: 400;
+    font-style: normal;
+    src:
+            local("cinzel_regular"),
+            url(../materials/fonts/cinzel_regular.woff) format('woff');
+    font-display: swap;
+}
